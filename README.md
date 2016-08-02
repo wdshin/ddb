@@ -95,6 +95,7 @@
 * rethinkDB
 * realm
 * cockrouch
+* TiDB
 * 
 ## will be implemented in Erlang , rustlang, haskell, and c/c++
 
