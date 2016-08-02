@@ -78,7 +78,10 @@
 * rocksdb
 * cassandra
 * crate.io
-* ...
+* redis
+* mySQL
+* postgresQL
+
 
 ## will be implemented in Erlang , rustlang, haskell, and c/c++
 
