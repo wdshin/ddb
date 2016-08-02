@@ -81,7 +81,7 @@
 * redis
 * mySQL
 * postgresQL
-
+* influxDB
 
 ## will be implemented in Erlang , rustlang, haskell, and c/c++
 
