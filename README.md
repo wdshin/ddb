@@ -94,6 +94,7 @@
 * pinot
 * rethinkDB
 * realm
+* cockrouch
 * 
 ## will be implemented in Erlang , rustlang, haskell, and c/c++
 
