@@ -84,7 +84,8 @@
 * influxDB
 * riak
 * mongoDB
-
+* couchDB
+* couchBase
 
 ## will be implemented in Erlang , rustlang, haskell, and c/c++
 
