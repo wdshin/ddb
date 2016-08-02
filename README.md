@@ -74,6 +74,11 @@
 * in a cluster
 * in multi datacenters
 
+### Multiple Backends
+* rocksdb
+* cassandra
+* crate.io
+* ...
 
 ## will be implemented in Erlang , rustlang, haskell, and c/c++
 
