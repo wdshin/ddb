@@ -74,7 +74,7 @@
 * in a cluster
 * in multi datacenters
 
-### Multiple Backends
+### Support Multiple Backends and Get Wisdom from
 * rocksdb
 * cassandra
 * crate.io
@@ -91,6 +91,7 @@
 * Google Cloud Datastore
 * Google Big Query
 * Google Big Table
+* pinot
 
 ## will be implemented in Erlang , rustlang, haskell, and c/c++
 
