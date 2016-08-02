@@ -86,6 +86,11 @@
 * mongoDB
 * couchDB
 * couchBase
+* AWS S3
+* Google Cloud Storage
+* Google Cloud Datastore
+* Google Big Query
+* Google Big Table
 
 ## will be implemented in Erlang , rustlang, haskell, and c/c++
 
