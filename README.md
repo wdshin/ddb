@@ -92,6 +92,7 @@
 * Google Big Query
 * Google Big Table
 * pinot
-
+* rethinkDB
+* 
 ## will be implemented in Erlang , rustlang, haskell, and c/c++
 
