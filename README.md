@@ -108,7 +108,10 @@
 * TiDB
 * ssdb
 * boltdb
+* citusDB
+* druid.io
 * 
+
 
 ### will be implemented in Erlang , rustlang, haskell, and c/c++
 
