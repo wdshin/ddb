@@ -1,6 +1,16 @@
 # Distributed DataBase (a.k.a) ddb
 
+## Current Status
+
+* nothing
+* making use cases,objectives.and requirements.
+
 ## Objectives
+
+### OS,Platforms
+
+* run on linux
+* run on clouds
 
 ### Key Value Store
 
