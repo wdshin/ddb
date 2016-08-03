@@ -14,10 +14,14 @@
 * replication in a cluster
 * replication between data-centers
 
+### AUTO SCALING
+* SSD disks are expensive
+* 
+
 ### OS,Platforms
 
-* run on linux
-* run on clouds
+* run on linux(CoreOS or Debian)
+* run on GCE( my favorite cloud system)
 
 ### Key Value Store
 ### Eventually Consistency 
