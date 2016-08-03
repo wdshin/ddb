@@ -3,5 +3,5 @@
 
 ### Paxos
 
-* (Paxos)[https://en.wikipedia.org/wiki/Paxos_(computer_science)]
+* [Paxos](https://en.wikipedia.org/wiki/Paxos_(computer_science))
 
