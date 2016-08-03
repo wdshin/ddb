@@ -3,7 +3,7 @@
 
 ### Distribution
 
-* (Two Phase Commit, Three Phase COmmit](https://en.wikipedia.org/wiki/Distributed_algorithm)
+* [Two Phase Commit, Three Phase COmmit](https://en.wikipedia.org/wiki/Distributed_algorithm)
 
 ### Paxos
 
