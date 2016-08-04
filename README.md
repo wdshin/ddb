@@ -15,8 +15,9 @@
 * replication between data-centers
 
 ### AUTO SCALING
-* SSD disks are expensive
-* 
+* running DB with auto scaling is not common. However, it is valuable if achieved.
+
+### 
 
 ### OS,Platforms
 
@@ -33,8 +34,23 @@
 * in a node 
 * in a cluster
 * in multi datacenters
+* 
 
-### will be implemented in Erlang , rustlang, haskell, and c/c++
+### will be implemented in Erlang , rust, haskell, julia, go, and c/c++
+
+### Protocols to communicate with clients
+
+* HTTP(S)/1.x, HTTP(S)/2
+* TCP
+* SCTP 
+
+### Clients to be supported primarily
+
+* Erlang
+* Go
+* Node.js
+* PHP
+
 
 ### Support Multiple Backends and Get Wisdom from
 * cassandra
@@ -57,10 +73,9 @@
 * TiDB
 * ssdb
 * boltdb
+* scalaris
 * AWS S3
 * Google Cloud Storage
 * Google Cloud Datastore
 * Google Big Query
 * Google Big Table
-
-
